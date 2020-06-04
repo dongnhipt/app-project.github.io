@@ -1,2 +1,2 @@
-# htpp://app-project.github.io
+# http://app-project.github.io
 angular
